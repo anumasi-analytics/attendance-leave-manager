@@ -1,0 +1,6 @@
+E01,Anand R,Development,6,6
+E02,Bhavani K,Development,3,6
+E03,Charles D,Testing,8,4
+E04,Deepa S,Testing,6,0
+E05,Imran A,HR,6,6
+E06,Janani P,Finance,8,6
